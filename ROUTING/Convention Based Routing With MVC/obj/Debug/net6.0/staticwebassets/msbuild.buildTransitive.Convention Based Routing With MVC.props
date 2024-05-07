@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Convention Based Routing With MVC.props" />
+</Project>

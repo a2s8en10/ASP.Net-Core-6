@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Convention Based Routing WithOut  MVC", "Convention Based Routing WithOut  MVC.csproj", "{709D39FD-1022-4BF5-B476-247DB8E7FFD8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{709D39FD-1022-4BF5-B476-247DB8E7FFD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{709D39FD-1022-4BF5-B476-247DB8E7FFD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{709D39FD-1022-4BF5-B476-247DB8E7FFD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{709D39FD-1022-4BF5-B476-247DB8E7FFD8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {525A89CE-8ED2-4566-AC3D-69C0C4C39E85}
+	EndGlobalSection
+EndGlobal
