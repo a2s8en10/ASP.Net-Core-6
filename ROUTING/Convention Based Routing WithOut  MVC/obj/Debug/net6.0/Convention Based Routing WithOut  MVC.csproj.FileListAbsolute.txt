@@ -1,0 +1,5 @@
+D:\Hosting\ASP.Net-Core-6\ROUTING\Convention Based Routing WithOut  MVC\obj\Debug\net6.0\Convention Based Routing WithOut  MVC.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hosting\ASP.Net-Core-6\ROUTING\Convention Based Routing WithOut  MVC\obj\Debug\net6.0\Convention Based Routing WithOut  MVC.AssemblyInfoInputs.cache
+D:\Hosting\ASP.Net-Core-6\ROUTING\Convention Based Routing WithOut  MVC\obj\Debug\net6.0\Convention Based Routing WithOut  MVC.AssemblyInfo.cs
+D:\Hosting\ASP.Net-Core-6\ROUTING\Convention Based Routing WithOut  MVC\obj\Debug\net6.0\Convention Based Routing WithOut  MVC.csproj.CoreCompileInputs.cache
+D:\Hosting\ASP.Net-Core-6\ROUTING\Convention Based Routing WithOut  MVC\obj\Debug\net6.0\Convention Based Routing WithOut  MVC.MvcApplicationPartsAssemblyInfo.cache
